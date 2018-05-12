@@ -1,0 +1,28 @@
+_repo: Ontology-or-the-Theory-of-Being_35722
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coffey, P. (Peter)
+    alias: Coffey, Peter
+    birthdate: 1876
+    deathdate: 1943
+    gutenberg_agent_id: '37857'
+    url: http://www.gutenberg.org/2009/agents/37857
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2011-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35722'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ontology'
+- !lcc 'BD'
+title: Ontology, or the Theory of Being
+url: http://www.gutenberg.org/ebooks/35722
