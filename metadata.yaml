@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37857'
     url: http://www.gutenberg.org/2009/agents/37857
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35722#Ontology-or-the-Theory-of-Being
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2011-03-30'
 gutenberg_type: Text
